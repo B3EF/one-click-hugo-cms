@@ -1,6 +1,6 @@
-<mxfile modified="2022-05-14T12:20:40.007Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="7IDrNIVBBYvha2zicx_j" version="18.0.4" type="github">
+<mxfile modified="2022-05-14T12:28:01.185Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="u37pgGy9rxtXgLgl-p6P" version="18.0.4" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1422" dy="282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,16 +301,22 @@
         <mxCell id="7OVz4w7n9kzEPWy-4BBC-23" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1221.5" y="1131" width="449" height="115" as="geometry" />
         </mxCell>
+        <mxCell id="vcDs2Z7XJvlt0uO95_l1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Zxkmc_hHvZVmP4foF5Bp-2" target="vcDs2Z7XJvlt0uO95_l1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="javascript:alert(&quot;1&quot;" id="Zxkmc_hHvZVmP4foF5Bp-2">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" parent="1" vertex="1">
             <mxGeometry x="583.5" y="1070" width="140" height="40" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="JavaScript%00:alert(1)" linkTarget="_blank" link="JavaScript%00:aaaa" id="vcDs2Z7XJvlt0uO95_l1-1">
+        <UserObject label="JavaScript%00:alert(1)" linkTarget="_blank" link="aaaa?q=&gt;&lt;img/src=x&gt;" id="vcDs2Z7XJvlt0uO95_l1-1">
           <mxCell style="fontColor=#0000EE;fontStyle=4;rounded=1;overflow=hidden;spacing=10;" vertex="1" parent="1">
             <mxGeometry x="255.5" y="1060" width="160" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="vcDs2Z7XJvlt0uO95_l1-2" value="" style="whiteSpace=wrap;html=1;fontColor=#0000EE;fontStyle=4;rounded=1;spacing=10;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIE5hTiBOYU4iPiYjeGE7ICAgPHBvbHlnb24gc3Ryb2tlPSIjMDA0NDAwIiBmaWxsPSIjMDA5OTAwIiBwb2ludHM9IjAsMCAwLDUwIDUwLDAiIGlkPSJ0cmlhbmdsZSIvPiYjeGE7ICAgJiN4YTs8L3N2Zz4=;" vertex="1" parent="1">
+          <mxGeometry x="593.5" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
